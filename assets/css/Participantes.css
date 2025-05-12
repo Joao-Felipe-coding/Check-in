@@ -69,6 +69,7 @@ fieldset legend, section h2 {
 }
 
 fieldset button {
+  cursor: pointer;
   width: fit-content;
   border: 0;
   background-color: #f48f56;
@@ -128,6 +129,7 @@ tbody td small {
 tbody td button {
   all: unset;
   color: #9ff9cc;
+  cursor: pointer;
 }
 
 tbody td button:hover{
